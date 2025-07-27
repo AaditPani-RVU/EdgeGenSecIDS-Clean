@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 287e3a4a424dfb89e4620482f1c516a3d95dc2fa AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1749278867 +0530	commit (initial): preprocessing commit
+287e3a4a424dfb89e4620482f1c516a3d95dc2fa 445113a145f3c7abe656fcdb0bf8afcea36598bc AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1749279232 +0530	commit: 2nd commit
+445113a145f3c7abe656fcdb0bf8afcea36598bc 0621316b72f050e688b66013ee4986bc3f3965c3 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1749977589 +0530	commit: Discriminator training
+0621316b72f050e688b66013ee4986bc3f3965c3 a0b7b82feb7b2f323ca1479036b74d08ae8336c8 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1749980538 +0530	commit (merge): Merged remote main with local changes
+a0b7b82feb7b2f323ca1479036b74d08ae8336c8 d44ac1d9221b2ac0223ac309a4ea6b61d92657f3 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1749982844 +0530	commit: IDS commit
+d44ac1d9221b2ac0223ac309a4ea6b61d92657f3 3137131c6ebe77d52c1cae22535787e69f916cb6 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1750005502 +0530	commit: IDS Commit 2
+3137131c6ebe77d52c1cae22535787e69f916cb6 e31e44053566324ddc9e794ed0212e58166a97c5 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752422554 +0530	commit: inference commit
+e31e44053566324ddc9e794ed0212e58166a97c5 e31e44053566324ddc9e794ed0212e58166a97c5 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752422946 +0530	reset: moving to HEAD
+e31e44053566324ddc9e794ed0212e58166a97c5 e31e44053566324ddc9e794ed0212e58166a97c5 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423062 +0530	pull origin main: updating HEAD
+e31e44053566324ddc9e794ed0212e58166a97c5 8d893db34befb607aeb28671b358331a80ed5512 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423171 +0530	commit: Resolved conflict by taking remote version of IDS.ipynb
+8d893db34befb607aeb28671b358331a80ed5512 8d893db34befb607aeb28671b358331a80ed5512 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423306 +0530	pull origin main --no-rebase: updating HEAD
+8d893db34befb607aeb28671b358331a80ed5512 17bc79d320fa5e680df3158003a8a6bc45cf9f09 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423351 +0530	commit: Updated .gitignore locally
+17bc79d320fa5e680df3158003a8a6bc45cf9f09 57e385675c203286447b0f7b27ae8af8db6e6f9f AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423370 +0530	pull origin main --no-rebase: Merge made by the 'ort' strategy.
+57e385675c203286447b0f7b27ae8af8db6e6f9f 994208f1160e27ea6322b7e8900930a837f261a4 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1752423789 +0530	commit: IDS1 commit
+994208f1160e27ea6322b7e8900930a837f261a4 994208f1160e27ea6322b7e8900930a837f261a4 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753597319 +0530	checkout: moving from main to tree1
+0000000000000000000000000000000000000000 a48887875758fbca72c859ebee504e15c8ef60ea AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753597504 +0530	commit (initial): brooo
+a48887875758fbca72c859ebee504e15c8ef60ea 2a6319f452217b03a0cc7619d2559829ee50dab2 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640031 +0530	commit: initial commit for new repo
+2a6319f452217b03a0cc7619d2559829ee50dab2 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640053 +0530	commit: initial commit for new repo
+20e8af699a17015cca075bf12b1b7e29c25e9400 0000000000000000000000000000000000000000 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640615 +0530	Branch: renamed refs/heads/tree3 to refs/heads/main
+0000000000000000000000000000000000000000 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640615 +0530	Branch: renamed refs/heads/tree3 to refs/heads/main
+20e8af699a17015cca075bf12b1b7e29c25e9400 97208d8025c633f6bae5a600b07a83a684258cdf AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753641168 +0530	commit: Cleaned large files and updated .gitignore
+97208d8025c633f6bae5a600b07a83a684258cdf 103a190a49f0bb0c350e04d9ea6fafe89e0c1f3f AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642222 +0530	commit: Add large files to .gitignore
+103a190a49f0bb0c350e04d9ea6fafe89e0c1f3f 97208d8025c633f6bae5a600b07a83a684258cdf AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642825 +0530	reset: moving to HEAD~1
+97208d8025c633f6bae5a600b07a83a684258cdf 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642828 +0530	reset: moving to HEAD~1
+20e8af699a17015cca075bf12b1b7e29c25e9400 1c83bb41c127f6ce012db51e39a54222394dfb94 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642870 +0530	commit: Add .gitignore to exclude large files
+1c83bb41c127f6ce012db51e39a54222394dfb94 6c292f80b3e094bd384b7601566433240cf4d88b AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753645058 +0530	commit: Clean start: only .gitignore

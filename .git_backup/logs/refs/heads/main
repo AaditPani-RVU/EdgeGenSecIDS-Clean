@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 a48887875758fbca72c859ebee504e15c8ef60ea AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753597504 +0530	commit (initial): brooo
+a48887875758fbca72c859ebee504e15c8ef60ea 2a6319f452217b03a0cc7619d2559829ee50dab2 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640031 +0530	commit: initial commit for new repo
+2a6319f452217b03a0cc7619d2559829ee50dab2 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640053 +0530	commit: initial commit for new repo
+20e8af699a17015cca075bf12b1b7e29c25e9400 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753640615 +0530	Branch: renamed refs/heads/tree3 to refs/heads/main
+20e8af699a17015cca075bf12b1b7e29c25e9400 97208d8025c633f6bae5a600b07a83a684258cdf AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753641168 +0530	commit: Cleaned large files and updated .gitignore
+97208d8025c633f6bae5a600b07a83a684258cdf 103a190a49f0bb0c350e04d9ea6fafe89e0c1f3f AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642222 +0530	commit: Add large files to .gitignore
+103a190a49f0bb0c350e04d9ea6fafe89e0c1f3f 97208d8025c633f6bae5a600b07a83a684258cdf AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642825 +0530	reset: moving to HEAD~1
+97208d8025c633f6bae5a600b07a83a684258cdf 20e8af699a17015cca075bf12b1b7e29c25e9400 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642828 +0530	reset: moving to HEAD~1
+20e8af699a17015cca075bf12b1b7e29c25e9400 1c83bb41c127f6ce012db51e39a54222394dfb94 AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753642870 +0530	commit: Add .gitignore to exclude large files
+1c83bb41c127f6ce012db51e39a54222394dfb94 6c292f80b3e094bd384b7601566433240cf4d88b AaditPani-RVU <aaditp.btech23@rvu.edu.in> 1753645058 +0530	commit: Clean start: only .gitignore
